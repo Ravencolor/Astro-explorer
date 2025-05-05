@@ -35,10 +35,6 @@ Astro Explorer est une application interactive conçue pour explorer et découvr
 
 Les contributions sont les bienvenues !
 
-## Licence
-
-Ce projet est sous licence [MIT](LICENSE).
-
 ## Auteurs
 
 - **Raven** - Développeur principal
